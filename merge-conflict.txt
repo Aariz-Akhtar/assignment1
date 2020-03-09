@@ -1,0 +1,7 @@
+################################################
+Creating
+merge
+conflict
+file
+from
+Branch2
