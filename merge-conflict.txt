@@ -1,1 +1,9 @@
 This is the file from Branch 1
+################################################
+Creating
+merge
+conflict
+file
+from
+Branch2
+
